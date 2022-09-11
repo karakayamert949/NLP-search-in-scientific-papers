@@ -25,3 +25,6 @@ Program will create a Query_result.txt file in which there are the results of th
 There are several things you might want to print, you can choose things whether you like to print or not by playing with write_query_result_2txt():
 
 If you want to quit the program enter "quit" as input
+ 
+# License
+Apache 2.0
