@@ -1,6 +1,6 @@
 # Overview
-Based on nlp (tf-idf), you give the machine key words that you want to search
-and machine gives you names of the most relevant n number of papers and n number of sentences in those papers
+Based on nlp (tf-idf), you give the program key words that you want to search
+and program gives you names of the most relevant n number of papers and n number of sentences in those papers
 
 # Libraries
 PyPDF2, 
